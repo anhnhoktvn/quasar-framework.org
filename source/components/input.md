@@ -81,7 +81,7 @@ This section refers to `before` and `after` properties which can add additional 
 {
   // required icon
   icon: String,
-  // required function to call when
+  // Optional. Function to call when
   // icon is clicked/tapped
   handler: Function,
 
